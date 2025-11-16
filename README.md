@@ -71,16 +71,16 @@ The system allows administrators to manage venues, events, and bookings while su
 	-	BookingViewModel 
 
 ### Views
-	-	Organised into:
-    - /Views/Venue
-    - /Views/Event
-    - /Views/Booking
+	- Organised into:
+		- /Views/Venue
+		- /Views/Event
+    	- /Views/Booking
 
 ### Azure Components
   - BlobContainerClient used for:
     - Uploading images
     - Generating blob URLs
-	-	Azure SQL Server storing relational data
+  - Azure SQL Server storing relational data
 
 ## Image Upload System
 The application uses Azure Blob Storage to handle image uploads.
