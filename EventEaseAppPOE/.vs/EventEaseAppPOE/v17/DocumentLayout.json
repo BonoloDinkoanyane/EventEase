@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\views\\booking\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:views\\booking\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\models\\bookingfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:models\\bookingfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-st10443065-bonolo-dinkoanyane\\eventeaseapppoe\\models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A21FF2-828F-4C03-89C9-0A601A3DBB87}|EventEaseAppPOE.csproj|solutionrelative:models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAFkAAAAA/P///38UwFwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:06:32.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filter.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Views\\Booking\\Filter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Filter.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Views\\Booking\\Filter.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Filter.cshtml",
+              "ViewState": "AgIAAB8AAAAA0DMzMzPbvzAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:23:25.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\BookingFilterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookingFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\BookingFilterViewModel.cs",
+              "RelativeToolTip": "Models\\BookingFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:13:06.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAkAAABAZ2ZmZiYwwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T11:31:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAACgzszMzIwjwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:14:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingView.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\BookingView.cs",
+              "RelativeDocumentMoniker": "Models\\BookingView.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-ST10443065-Bonolo-Dinkoanyane\\EventEaseAppPOE\\Models\\BookingView.cs",
+              "RelativeToolTip": "Models\\BookingView.cs",
+              "ViewState": "AgIAAAIAAABAzMzMzEwowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:14:13.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
