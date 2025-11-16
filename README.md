@@ -42,9 +42,9 @@ The system allows administrators to manage venues, events, and bookings while su
 
 ### Backend
 	- ASP.NET Core MVC
-  - Entity Framework Core (Code-First + Database-First elements)
+  	- Entity Framework Core (Code-First + Database-First elements)
 	- Azure SQL Database
-	-	Azure Blob Storage
+	- Azure Blob Storage
 
 ### Frontend
   - Razor Pages
