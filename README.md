@@ -6,7 +6,7 @@ The system allows administrators to manage venues, events, and bookings while su
 ## Features
 
 ### Venue Management
-	-	Add, edit, view, and delete venues
+  - Add, edit, view, and delete venues
   - Upload venue images using Azure Blob Storage
   - Display venues in responsive Bootstrap cards
   - Venue availability tracking
